@@ -1,0 +1,80 @@
+== Process ==
+
+After having received some kind of "made up recipe as we go" from the brew shop, I went home and recalculated the recipe to decrease the IBU a bit. 
+This was probably not really a good idea, but .... well ... I wanted to aim for an IBU of 55.
+Also, I added Cascade for dry-hopping after 3 weeks of fermentation.
+
+The original recipe looked like this:
+Boil 1 (12,5 L, 20 mins):
+Schedule:
+  20 minutes: 25 g Amarillo hops (9,6%)
+              25 g Cascade hops (6%)
+   5 minutes: 25 g Amarillo hops (9,6%)
+              25 g Cascade hops (6%)
+
+Boil 2 (12,5 L, 60 mins):
+Schedule:
+  60 minutes: 28 g Chinook hops (11,9%) 
+  20 minutes: 25 g Amarillo hops (9,6%)
+              25 g Cascade hops (6%)
+   5 minutes: 25 g Amarillo hops (9,6%)
+              25 g Cascade hops (6%)
+
+=== Brew day ===
+
+Boil #1:
+
+Boiling a bit more than half the pot while filling it up with pre boiled water from the water boiler got the boil to start pretty fast.
+From cool to boil in around 30 minutes. Everything went quite smooth except that I might have gotten some dirt from the fan into the 
+brewing pot while boiling. Not really sure what that might do to the beer.
+
+Cooling the wort in the sink is pretty stupid. The water became really hot in about a minute, so after 30 minutes I gave up and put it 
+in the bath tub instead. That went much smoother. Cold in about 30 more minutes.
+
+I poured the wort in the fermenter and shut it with a sanitized lid. Unfortunately I did not have any "saftsil" and as I accidently mixed
+up the sediments with the final liter of wort in the pot I had to pour it out. Lost about a liter here. 
+
+
+Boil #2:
+Same procedure as above. Wiped the kitchen fan a bit better this time. A lot of fluid disappeared during the boil. Maybe a bit too much...
+Maybe I should have added the water back again?
+Cooled the wort in the bath tub this time. Took about 30 minutes.
+Poured the wort into the fermenter in a bt more controlled way not to lose too much fluid. Would probably work better with a "saftsil".
+
+Got in total 17 liters of wort.
+
+Measuring the OG was not made in the best way. I sanitized the hydrometer and put it into the fermenter, but I did not know that 
+if you spin the hydrometer it will lose the foam around it to easier give a fair result. On top of that I did not read the temperature.
+Due to the foam on top I had a really hard time reading, but I estimated the OG to 66.
+
+OG: 66
+
+Pitched the dry yeast on top of the wort in the fermenter. I might have been to eager to get the fermentation started, so I might have
+aerated the yeast/wort too early, but it might also have been after 20 minutes of rest. The aeration was done by shaking the 
+fermentation bucket wild and crazy with an empty water lock in the lid. After that i filled the water lock with star san and left it on 
+the floor in our basement.
+
+
+=== Bottle cleaning ===
+
+Cleaning bottles by filling up an unused fermentation bucket with bottles, hot water and dishwasher detergent. Had the first batch in 
+the bucket over night, and by the time I took care of the bottles the water was cold. Scrubbed all bottles free from glue and dirt 
+inside and out. 
+
+Tried to get as much of the water out of the bottles and covered it with a piece of aluminum foil.
+
+Put all bottles in the oven on 170 degrees for >1 hour.
+
+Store the bottles until bottling day. They should remain sterilized.
+
+
+=== Fermentation ===
+
+Fermentation in the basement at around 22 degrees.
+Started bubbling the next day and went on for 5 days until the bubbles decreased significantly. I moved the bucket from the cold floor
+to on top of a cardboard box to insulate the cold a bit.
+
+Secondary fermentation kept on for almost 2 weeks. After 2 weeks and 1 day I did measure the OG and also added 25 grams of Cascade hops.
+
+OG: 14
+
