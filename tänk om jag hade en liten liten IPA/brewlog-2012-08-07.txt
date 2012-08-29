@@ -2,6 +2,7 @@
 
 After having received some kind of "made up recipe as we go" from the brew shop, I went home and recalculated the recipe to decrease the IBU a bit. 
 This was probably not really a good idea, but .... well ... I wanted to aim for an IBU of 55.
+Also, I added Cascade for dry-hopping after 3 weeks of fermentation.
 
 The original recipe looked like this:
 Boil 1 (12,5 L, 20 mins):
@@ -73,4 +74,7 @@ Fermentation in the basement at around 22 degrees.
 Started bubbling the next day and went on for 5 days until the bubbles decreased significantly. I moved the bucket from the cold floor
 to on top of a cardboard box to insulate the cold a bit.
 
- 
+Secondary fermentation kept on for almost 2 weeks. After 2 weeks and 1 day I did measure the OG and also added 25 grams of Cascade hops.
+
+OG: 14
+
