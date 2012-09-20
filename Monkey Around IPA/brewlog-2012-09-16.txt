@@ -1,0 +1,50 @@
+== Recipe Modification ==
+
+Switching some of the Amarillo hops 7,8% to 9,6%:
+
+Schedule for Boil 2:
+  60 minutes: 18 g Nugget hops (13,4%)
+  15 minutes: 32 g Amarillo hops (9,6%)
+              50 g Cascade hops (6%)
+              0,5 ml Protafloc
+    1 minute: 2 g Amarillo hops (9,6%)
+              30 g Amarillo hops (7,8%)
+              11 g Nelson Souvin (11,5%)
+
+== Process ==
+
+=== Brew day ===
+
+Boil #1:
+
+Boiling a bit more than half the pot while filling it up with pre boiled water from the water boiler got the boil to start pretty fast.
+From cool to boil in around 30 minutes.
+
+Cooling in bath tub for about 45 minutes.
+
+Boiling only Malt Extract and protafloc turned out to give me some kind of malty slurry that had not sunk to the bottom. Might be to too poor cooling or something. Got all of that into the fermenter. 
+
+9,5 L of wort.
+
+
+Boil #2:
+
+Same procedure as above. Boiled 12,5 liters of water with the malt extract. Efter about 30 minutes of the boiling I added 1 more liter of boiling water. Was that good or bad? Boiled for 60 minutes in total. Made sure to cool the wort completely before pouring into fermenter. Due to whole hops swallowing a lot of the fluid I lost a lot of that here. It was probably around 3-4 liters lost.
+
+7,5 L of wort.
+
+In total 17 L of wort.
+
+I added 4 L of tap water to meet the target volume of 21 L of wort.
+To easier be able to read the OG I used a wine thief to get wort into a measure glass for later reading.
+
+OG: 56
+
+Pitched the dry yeast on top of the wort in the fermenter, put on the lid on the fermenter and added an empty water lock and waited for about 30 minutes.
+
+Then the wort was aerated by shaking the fermenter like a wild maniac. Added star-san to the water lock and left to ferment on top of a cardboard box on the floor in our basement at around 20 degrees Celsius.  
+
+
+=== Conclusions ===
+
+* Do not boil two times with hops in only one of the boils. This will most defenitely fuck up the hops addition to the brew. Will probably be a lot less hoppy than expected.

@@ -1,4 +1,4 @@
-== Process ==
+== Recipe Modification ==
 
 After having received some kind of "made up recipe as we go" from the brew shop, I went home and recalculated the recipe to decrease the IBU a bit. 
 This was probably not really a good idea, but .... well ... I wanted to aim for an IBU of 55.
@@ -20,7 +20,9 @@ Schedule:
    5 minutes: 25 g Amarillo hops (9,6%)
               25 g Cascade hops (6%)
 
-=== Brew day ===
+== Process ==
+
+=== Brew day 2012-08-07 ===
 
 Boil #1:
 
@@ -77,4 +79,24 @@ to on top of a cardboard box to insulate the cold a bit.
 Secondary fermentation kept on for almost 2 weeks. After 2 weeks and 1 day I did measure the OG and also added 25 grams of Cascade hops.
 
 OG: 14
+
+
+=== Bottling day 2012-09-08 ===
+
+Cleaning all the equipment turned out to be a huge problem. The star-san solution got bad almost instantly all the time. Next time use more star-san in the solution.
+
+Brought all clean bottles and removed the aluminum foil. That was stupid. Got some left over bottles that need to be sterilized one more time.
+
+Priming solution:
+  5 g sugar per liter for 16,5 liters of wort = 82,5 g of sugar.
+  Added 1 dl of water and boiled until sugar was desolved.
+  Cooled the solution
+
+Added the solution to a bottling fermenter
+Siphoning the beer to the bottling fermenter. Didn't wait that long before I started filling bottles by siphoning. Should probably have waited for a while to let the yeast and slurry settle before starting? Siphoning sucks! I need to come up with another way of doing that.
+
+Ended up with having only 14,5 liters of beer on bottle. Where did the rest of it go???
+
+=== Conclusions ===
+
 

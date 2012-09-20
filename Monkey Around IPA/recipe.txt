@@ -1,0 +1,47 @@
+Monkey Around IPA
+-----------------
+Target volume: 21 L
+Target OG: 62
+Target BU: 55
+
+Ingredients:
+------------
+  3,5 kg Light LME
+  18 g Nugget hops pellets (13,4%)
+  83 g Amarillo hops pellets (7,8%)
+  61 g Cascade hops pellets (6%)
+  11 g Nelson Souvin whole (11,5%)
+  1 package Safale US-05
+  1 ml Protafloc 
+  
+Boil 1 (20 minutes):
+--------------------
+Add 2kg of LME to the pot full of 10 L of cold water. Bring to boil and start timer.
+
+Schedule:
+  15 minutes: 0,5 ml Protafloc
+
+Cool to 20 degrees and pour in fermentation bucket.
+
+Boil 2 (60 minutes):
+--------------------
+Add 1,5 kg of LME to the pot full of 12,5 L of cold water. Bring to boil and start timer.
+
+Schedule:
+  60 minutes: 18 g Nugget hops
+  15 minutes: 40 g Amarillo hops
+              50 g Cascade hops
+              0,5 ml Protafloc
+    1 minute: 32 g Amarillo hops
+              11 g Nelson Souvin hops
+
+Cool to 20 degrees and pour in fermentation bucket.
+
+Add yeast. Let yeast relax on top of fluid for 20 mins. Put on a lid and add an empty water lock to the hole. 
+Shake the fermentation bucket heavily to aerate the fluid. Fill water lock with star san and wait.
+
+Dry hopping:
+------------
+11 g Cascade hops
+11 g Amarillo hops
+
