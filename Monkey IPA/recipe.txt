@@ -1,5 +1,5 @@
-Monkey Around IPA
------------------
+Monkey IPA
+----------
 Target volume: 21 L
 Target OG: 62
 Target BU: 55
